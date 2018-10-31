@@ -9,29 +9,17 @@
 <meta name="viewport"
 	content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1, shrink-to-fit=no">
 <!-- default header name is X-CSRF-TOKEN -->
-<title><tiles:insertAttribute name="title" ignore="true" /></title>
+<title>RS Tutorials</title>
 
-<!-- Access the bootstrap Css like this,
-		Spring boot will handle the resource mapping automcatically -->
-<!-- <link rel="stylesheet" type="text/css"
-	href="webjars/bootstrap/3.3.7/css/bootstrap.min.css" /> -->
-
-<!--
-	<spring:url value="/css/main.css" var="springCss" />
-	<link href="${springCss}" rel="stylesheet" />
-	 -->
 <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
 <link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="../css/style.css">
 <link rel="stylesheet" type="text/css" href="../css/buttons.bootstrap.css">
 <link rel="stylesheet" type="text/css" href="../css/select.bootstrap.css">
 <link rel="stylesheet" type="text/css" href="../css/editor.bootstrap.css">
-<link rel="stylesheet" type="text/css"
-	href="../css/bootstrap-datepicker.min.css">
-<link rel="stylesheet" type="text/css"
-	href="../css/bootstrap-year-calendar.css">	
-	<link rel="stylesheet" type="text/css"
-	href="../css/dataTables.bootstrap.css">
+<link rel="stylesheet" type="text/css"	href="../css/bootstrap-datepicker.min.css">
+<link rel="stylesheet" type="text/css"	href="../css/bootstrap-year-calendar.css">	
+<link rel="stylesheet" type="text/css"	href="../css/dataTables.bootstrap.css">
 <link rel="stylesheet" type="text/css" href="../css/smart_wizard.css">
 <link rel="stylesheet" type="text/css" href="../css/smart_wizard_theme_dots.css">
 <link rel="stylesheet" type="text/css" href="../css/smart_wizard_theme_circles.css">
@@ -39,29 +27,31 @@
 
 
 <!-- JavaScripts -->
-<script>
-var isDashBoard=false;
-</script>
  <script src="../js/main-compiled.js"></script>
  <script src="../js/jquery-1.10.2.js"></script>
-<!-- <script type="text/javascript" src="webjars/jquery/1.11.1/jquery.min.js"></script> -->
-<!-- <script type="text/javascript">
-var jQuery_1_1_3 = $.noConflict(true);
-</script> -->
 
-<script type="text/javascript"
-	src="../js/bootstrap.min.js"></script>
+<script type="text/javascript"	src="../js/bootstrap.min.js"></script>
 
 <script src="../js/respond.min.js"></script>
-<!-- <script src="js/bootstrap.min.js"></script> -->
 <script src="../js/bootstrap-datepicker.min.js"></script>
 <script src="../js/bootstrap-year-calendar.js"></script>
 <script src="../js/bootstrap-popover.js"></script>
 
 
+<script src="../js/jquery.dataTables.js"></script>
+<script src="../js/dataTables.bootstrap.js"></script>
+<script src="../js/dataTables.buttons.js"></script>
+<script src="../js/buttons.bootstrap.js"></script>
+<script src="../js/dataTables.select.js"></script>
+<script src="../js/dataTables.editor.js"></script>
+<script src="../js/editor.bootstrap.js"></script>
+
 </head>
 
 <body class="cssAnimate ct-headroom--scrollUpMenu">
+<div class="ct-preloader">
+		<div class="ct-preloader-content"></div>
+	</div>
 	<nav class="ct-menuMobile">
 		<ul class="ct-menuMobile-navbar">
 			<li class="active"><a href="/">Home</a>
@@ -198,8 +188,7 @@ var jQuery_1_1_3 = $.noConflict(true);
 								class="fa fa-lock"></i></a></li>
 						<li><a href="login" class="ct-js-signup">sign up<i
 								class="fa fa-user"></i></a></li>
-						<li style="padding-top:6px;width:250px;">Welcome <b><c:out
-									value="${pageContext.request.remoteUser}"></c:out></b></li>
+						<li style="padding-top:6px;width:250px;"></li>
 				</ul>
 				<div class="ct-widget--group pull-right">
 					<ul class="ct-widget--socials list-inline text-uppercase">

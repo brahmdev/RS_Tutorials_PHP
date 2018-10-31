@@ -1,5 +1,4 @@
 <?php include '../layout/header.php';?>
-<?php include '../layout/menu.php';?>
 <div id="ct-js-wrapper" class="ct-pageWrapper">
     <header>
         <div class="ct-slick ct-js-slick ct-slick-defaultNavigation"
@@ -647,3 +646,5 @@
         </div>
     </section>
 </div>
+<?php include '../layout/footer.php';?>
+
