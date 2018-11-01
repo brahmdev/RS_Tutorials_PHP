@@ -27,13 +27,6 @@
 <!-- switcher -->
 <script src="../js/demo.js"></script>
 
-<script type="text/javascript">
-	$('head').append(
-			'<link rel="stylesheet" type="text/css" href="../css/demo.css">');
-	/* $('head').append('<link rel="stylesheet" type="text/css" href="php/generator.php">'); */
-	$('head').append(
-			'<link rel="stylesheet" type="text/css" href="../css/generator.css">');
-</script>
 <div id="stylechooser">
 	<div class="easyBox flat">
 		<h6 class="subTitle">Style Switcher</h6>

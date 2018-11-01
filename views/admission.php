@@ -1,3 +1,5 @@
+<?php include '../layout/header.php';?> 
+
 <body>
 	<div class="ct-site--map ct-u-backgroundGradient">
 		<div class="container">
@@ -193,3 +195,5 @@
 		</div>
 	</section>
 </body>
+<?php include '../layout/footer.php';?>
+

@@ -1,3 +1,5 @@
+<?php include '../layout/header.php';?> 
+
 <div class="ct-site--map ct-u-backgroundGradient">
 	<div class="container">
 		<div class="ct-u-displayTableVertical text-capitalize">
@@ -37,9 +39,9 @@
         </div>
         <div id="ct-gallery" class="ct-gallery ct-gallery--col4 ct-js-magnificPortfolioPopupGroup">
 
-        <a class="ct-js-magnificPopupImage" href="img/header2.jpg" title="Our Gallery">
+        <a class="ct-js-magnificPopupImage" href="../img/header2.jpg" title="Our Gallery">
             <figure class="ct-gallery-item 10">
-                <img src="img/gallery1.jpg" alt="">
+                <img src="../img/gallery1.jpg" alt="">
                 <figcaption class="ct-u-colorWhite">
                     <h3 class="ct-u-marginBottom30">Project name</h3>
                     <p>
@@ -62,9 +64,9 @@
             </figure>
         </a>
 
-        <a class="ct-js-magnificPopupImage" href="img/header.jpg" title="Our Gallery">
+        <a class="ct-js-magnificPopupImage" href="../img/header.jpg" title="Our Gallery">
             <figure class="ct-gallery-item cet">
-                <img src="img/gallery2.jpg" alt="">
+                <img src="../img/gallery2.jpg" alt="">
                 <figcaption class="ct-u-colorWhite">
                     <h3 class="ct-u-marginBottom30">Project name</h3>
                     <p>
@@ -87,9 +89,9 @@
             </figure>
         </a>
 
-        <a class="ct-js-magnificPopupImage" href="img/header4.jpg" title="Our Gallery">
+        <a class="ct-js-magnificPopupImage" href="../img/header4.jpg" title="Our Gallery">
             <figure class="ct-gallery-item 12">
-                <img src="img/gallery3.jpg" alt="">
+                <img src="../img/gallery3.jpg" alt="">
                 <figcaption class="ct-u-colorWhite">
                     <h3 class="ct-u-marginBottom30">Project name</h3>
                     <p>
@@ -112,9 +114,9 @@
             </figure>
         </a>
 
-        <a class="ct-js-magnificPopupImage" href="img/header5.jpg" title="Our Gallery">
+        <a class="ct-js-magnificPopupImage" href="../img/header5.jpg" title="Our Gallery">
             <figure class="ct-gallery-item 12">
-                <img src="img/gallery4.jpg" alt="">
+                <img src="../img/gallery4.jpg" alt="">
                 <figcaption class="ct-u-colorWhite">
                     <h3 class="ct-u-marginBottom30">Project name</h3>
                     <p>
@@ -137,9 +139,9 @@
             </figure>
         </a>
 
-        <a class="ct-js-magnificPopupImage" href="img/header6.jpg" title="Our Gallery">
+        <a class="ct-js-magnificPopupImage" href="../img/header6.jpg" title="Our Gallery">
             <figure class="ct-gallery-item 09">
-                <img src="img/gallery5.jpg" alt="">
+                <img src="../img/gallery5.jpg" alt="">
                 <figcaption class="ct-u-colorWhite">
                     <h3 class="ct-u-marginBottom30">Project name</h3>
                     <p>
@@ -162,9 +164,9 @@
             </figure>
         </a>
 
-        <a class="ct-js-magnificPopupImage" href="img/gallery1.jpg" title="Our Gallery">
+        <a class="ct-js-magnificPopupImage" href="../img/gallery1.jpg" title="Our Gallery">
             <figure class="ct-gallery-item 10">
-                <img src="img/gallery6.jpg" alt="">
+                <img src="../img/gallery6.jpg" alt="">
                 <figcaption class="ct-u-colorWhite">
                     <h3 class="ct-u-marginBottom30">Project name</h3>
                     <p>
@@ -187,9 +189,9 @@
             </figure>
         </a>
 
-        <a class="ct-js-magnificPopupImage" href="img/header7.jpg" title="Our Gallery">
+        <a class="ct-js-magnificPopupImage" href="../img/header7.jpg" title="Our Gallery">
             <figure class="ct-gallery-item cet">
-                <img src="img/gallery7.jpg" alt="">
+                <img src="../img/gallery7.jpg" alt="">
                 <figcaption class="ct-u-colorWhite">
                     <h3 class="ct-u-marginBottom30">Project name</h3>
                     <p>
@@ -212,9 +214,9 @@
             </figure>
         </a>
 
-        <a class="ct-js-magnificPopupImage" href="img/gallery8.jpg" title="Our Gallery">
+        <a class="ct-js-magnificPopupImage" href="../img/gallery8.jpg" title="Our Gallery">
             <figure class="ct-gallery-item 09">
-                <img src="img/gallery8.jpg" alt="">
+                <img src="../img/gallery8.jpg" alt="">
                 <figcaption class="ct-u-colorWhite">
                     <h3 class="ct-u-marginBottom30">Project name</h3>
                     <p>
@@ -237,9 +239,9 @@
             </figure>
         </a>
 
-        <a class="ct-js-magnificPopupImage" href="img/gallery9.jpg" title="Our Gallery">
+        <a class="ct-js-magnificPopupImage" href="../img/gallery9.jpg" title="Our Gallery">
             <figure class="ct-gallery-item cet">
-                <img src="img/gallery9.jpg" alt="">
+                <img src="../img/gallery9.jpg" alt="">
                 <figcaption class="ct-u-colorWhite">
                     <h3 class="ct-u-marginBottom30">Project name</h3>
                     <p>
@@ -262,9 +264,9 @@
             </figure>
         </a>
 
-        <a class="ct-js-magnificPopupImage" href="img/gallery10.jpg" title="Our Gallery">
+        <a class="ct-js-magnificPopupImage" href="../img/gallery10.jpg" title="Our Gallery">
             <figure class="ct-gallery-item 10">
-                <img src="img/gallery10.jpg" alt="">
+                <img src="../img/gallery10.jpg" alt="">
                 <figcaption class="ct-u-colorWhite">
                     <h3 class="ct-u-marginBottom30">Project name</h3>
                     <p>
@@ -287,9 +289,9 @@
             </figure>
         </a>
 
-        <a class="ct-js-magnificPopupImage" href="img/gallery11.jpg" title="Our Gallery">
+        <a class="ct-js-magnificPopupImage" href="../img/gallery11.jpg" title="Our Gallery">
             <figure class="ct-gallery-item 10">
-                <img src="img/gallery11.jpg" alt="">
+                <img src="../img/gallery11.jpg" alt="">
                 <figcaption class="ct-u-colorWhite">
                     <h3 class="ct-u-marginBottom30">Project name</h3>
                     <p>
@@ -312,9 +314,9 @@
             </figure>
         </a>
 
-        <a class="ct-js-magnificPopupImage" href="img/header12.jpg" title="Our Gallery">
+        <a class="ct-js-magnificPopupImage" href="../img/header12.jpg" title="Our Gallery">
             <figure class="ct-gallery-item 12">
-                <img src="img/gallery12.jpg" alt="">
+                <img src="../img/gallery12.jpg" alt="">
                 <figcaption class="ct-u-colorWhite">
                     <h3 class="ct-u-marginBottom30">Project name</h3>
                     <p>
@@ -339,11 +341,13 @@
 
         </div>
 </section>
+<?php include '../layout/footer.php';?> 
 
-<script src="js/magnific-popup/jquery.magnific-popup.min.js"></script>
-<script src="js/magnific-popup/init.js"></script>
+<script src="../js/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script src="../js/magnific-popup/init.js"></script>
 
-<script src="js/isotope/jquery.isotope.min.js"></script>
-<script src="js/isotope/imagesloaded.js"></script>
-<script src="js/isotope/infinitescroll.min.js"></script>
-<script src="js/isotope/init.js"></script>
+<script src="../js/isotope/jquery.isotope.min.js"></script>
+<script src="../js/isotope/imagesloaded.js"></script>
+<script src="../js/isotope/infinitescroll.min.js"></script>
+<script src="../js/isotope/init.js"></script>
+

@@ -1,3 +1,4 @@
+<?php include '../layout/header.php';?> 
 <div class="ct-site--map ct-u-backgroundGradient">
 	<div class="container">
 		<div class="ct-u-displayTableVertical text-capitalize">
@@ -118,3 +119,5 @@ var map = new google.maps.Map(document.getElementById("map"), mapOptions);
 To use this code on your website, get a free API key from Google.
 Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
 -->
+<?php include '../layout/footer.php';?> 
+

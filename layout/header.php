@@ -1,4 +1,3 @@
-
 <html>
 <head>
 <meta charset="utf-8">
@@ -24,7 +23,6 @@
 <link rel="stylesheet" type="text/css" href="../css/smart_wizard_theme_dots.css">
 <link rel="stylesheet" type="text/css" href="../css/smart_wizard_theme_circles.css">
 <link rel="stylesheet" type="text/css" href="../css/smart_wizard_theme_arrows.css">
-
 
 <!-- JavaScripts -->
  <script src="../js/main-compiled.js"></script>
@@ -54,21 +52,22 @@
 	</div>
 	<nav class="ct-menuMobile">
 		<ul class="ct-menuMobile-navbar">
-			<li class="active"><a href="/">Home</a>
+			<li class="active"><a href="../index.php">Home</a>
 			<li class="dropdown"><a>Courses</a>
 				<ul class="dropdown-menu">
-					<li><a href="courses.do">Course Detail</a></li>
+					<li><a href="../views/courses.php">Course Detail</a></li>
 				</ul></li>
 			<li class="dropdown"><a>Admission</a>
 				<ul class="dropdown-menu">
-					<li><a href="admission.do">Admission Process</a></li>
+					<li><a href="../views/admission.php">Admission Process</a></li>
 				</ul>
 			<li class="dropdown"><a>Results</a>
 				<ul class="dropdown-menu">
-					<li><a href="hallOfFame.do">Hall Of Fame</a></li>
-					<li><a href="testimonials.do">Testimonials</a></li>
-				</ul></li>
-							<li class="dropdown yamm-fw"><a>Settings</a>
+					<li><a href="../views/hallOfFame.php">Hall Of Fame</a></li>
+					<!--<li><a href="../views/testimonials.php">Testimonials</a></li>-->
+				</ul>
+			</li>
+			<!--				<li class="dropdown yamm-fw"><a>Settings</a>
 								<ul class="dropdown-menu">
 									<li>
 										<div class="yamm-content">
@@ -88,7 +87,7 @@
 												</div>
 												<div class="col-sm-3">
 														<a href="calendar.do">View Class TimeTable</a>
-														<!-- <a href="calendar.do">View Teacher TimeTable</a> -->
+														
 														<a href="calendar.do">Feedback</a>
 														<a href="calendar.do">Reviews</a>
 														<a href="calendar.do">Complaints</a>
@@ -159,14 +158,14 @@
 										</div>
 									</li>
 								</ul>
-							</li>
+							</li>-->
 			<li class="dropdown"><a>About Us</a>
 				<ul class="dropdown-menu">
-					<li><a href="salientFeature.do">Salient Features</a></li>
-					<li><a href="missionVision.do">Mission &amp; Vision</a></li>
-					<li><a href="foundersMessage.do">Message from Founder(s)</a></li>
+					<li><a href="..views/salientFeature.php">Salient Features</a></li>
+					<li><a href="..views/missionVision.php">Mission &amp; Vision</a></li>
+					<li><a href="..views/foundersMessage.php">Message from Founder(s)</a></li>
 				</ul></li>
-			<li class="dropdown"><a href="contact.do">Contact</a></li>
+			<li class="dropdown"><a href="..views/contact.php">Contact</a></li>
 		</ul>
 	</nav>
 
@@ -208,29 +207,29 @@
 
 		<nav class="navbar navbar-default navbar-fixed-top yamm "
 			data-heighttopbar="60px" data-startnavbar="0">
-			<div class="container">
+			<div class="container" sytle="display:flex;">
 				<div class="navbar-header"
-					style="margin-left: 78px; margin-top: 5px;">
+					style="margin-right: 40px; margin-top: 5px;">
 					<a href="/"><img alt="RS Tutorials" src="../img/logo.jpg"></a>
 				</div>
 				<div class="ct-navbar--fluid pull-right">
 					<ul class="nav navbar-nav ct-navbar--fadeInUp">
-						<li class="dropdown active"><a href="/">Home</a></li>
+						<li class="dropdown active"><a href="../index.php">Home</a></li>
 						<li class="dropdown"><a>Courses</a>
 							<ul class="dropdown-menu">
-								<li><a href="courses.do">Course Detail</a></li>
+								<li><a href="../views/courses.php">Course Detail</a></li>
 							</ul></li>
 						<li class="dropdown"><a>Admission</a>
 							<ul class="dropdown-menu">
-								<li><a href="admission.do">Admission Process</a></li>
+								<li><a href="../views/admission.php">Admission Process</a></li>
 							</ul></li>
 
 						<li class="dropdown"><a>Results</a>
 							<ul class="dropdown-menu">
-								<li><a href="hallOfFame.do">Hall Of Fame</a></li>
-								<li><a href="testimonials.do">Testimonials</a></li>
+								<li><a href="../views/hallOfFame.php">Hall Of Fame</a></li>
+								<!--<li><a href="../views/testimonials.php">Testimonials</a></li>-->
 							</ul></li>
-							<li class="dropdown yamm-fw"><a>Settings</a>
+							<!--<li class="dropdown yamm-fw"><a>Settings</a>
 								<ul class="dropdown-menu">
 									<li>
 										<div class="yamm-content">
@@ -250,7 +249,7 @@
 												</div>
 												<div class="col-sm-3">
 														<a href="calendar.do">View Class TimeTable</a>
-														<!-- <a href="calendar.do">View Teacher TimeTable</a> -->
+														
 														<a href="calendar.do">Feedback</a>
 														<a href="calendar.do">Reviews</a>
 														<a href="calendar.do">Complaints</a>
@@ -321,15 +320,15 @@
 										</div>
 									</li>
 								</ul>
-							</li>
+							</li>-->
 						<li class="dropdown"><a>About Us</a>
 							<ul class="dropdown-menu">
-								<li><a href="salientFeature.do">Salient Features</a></li>
-								<li><a href="missionVision.do">Mission &amp; Vision</a></li>
-								<li><a href="foundersMessage.do">Message from
+								<li><a href="../views/salientFeature.php">Salient Features</a></li>
+								<li><a href="../views/missionVision.php">Mission &amp; Vision</a></li>
+								<li><a href="../views/foundersMessage.php">Message from
 										Founder(s)</a></li>
 							</ul></li>
-						<li class="dropdown"><a href="contact.do">Contact</a></li>
+						<li class="dropdown"><a href="../views/contact.php">Contact</a></li>
 					</ul>
 
 				</div>

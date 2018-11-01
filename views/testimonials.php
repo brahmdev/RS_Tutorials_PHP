@@ -1,3 +1,5 @@
+<?php include '../layout/header.php';?> 
+
 <div class="ct-site--map ct-u-backgroundGradient">
 	<div class="container">
 		<div class="ct-u-displayTableVertical text-capitalize">
@@ -207,3 +209,5 @@
             </div>
         </div>
     </section>
+<?php include '../layout/footer.php';?>
+

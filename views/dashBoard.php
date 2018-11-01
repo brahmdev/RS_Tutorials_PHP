@@ -95,7 +95,7 @@
                                                 -moz-opacity: 1;
                                                     -khtml-opacity: 1;
                                                         -webkit-opacity: 1;
-                                                            opacity: 1;" style="top: -50px; opacity: 0;">
+                                                            opacity: 1;" style="top: -50px;">
                             <div class="ct-icon">
                                 <i class="fa fa-magic"></i>
                             </div>
@@ -125,7 +125,7 @@
                                                 -moz-opacity: 1;
                                                     -khtml-opacity: 1;
                                                         -webkit-opacity: 1;
-                                                            opacity: 1;" style="top: -50px; opacity: 0;">
+                                                            opacity: 1;" style="top: -50px;">
                             <div class="ct-icon">
                                 <i class="fa fa-bolt"></i>
                             </div>
@@ -155,7 +155,7 @@
                                                 -moz-opacity: 1;
                                                     -khtml-opacity: 1;
                                                         -webkit-opacity: 1;
-                                                            opacity: 1;" style="top: -50px; opacity: 0;">
+                                                            opacity: 1;" style="top: -50px;">
                             <div class="ct-icon">
                                 <i class="fa fa-recycle"></i>
                             </div>
@@ -187,7 +187,7 @@
                                                 -moz-opacity: 1;
                                                     -khtml-opacity: 1;
                                                         -webkit-opacity: 1;
-                                                            opacity: 1;" style="top: -50px; opacity: 0;">
+                                                            opacity: 1;" style="top: -50px;">
                             <div class="ct-icon">
                                 <i class="fa fa-tint"></i>
                             </div>
@@ -214,7 +214,7 @@
     </section>
 
     <section class="ct-u-paddingBoth100 ct-u-backgroundLightGreen">
-        <div class="container">
+        <div class="container" style="height:550px;">
             <div class="ct-slick ct-js-slick" data-adaptiveHeight="true"
                  data-animations="true" data-autoplay="true" data-infinite="true"
                  data-autoplaySpeed="6000" data-draggable="false"

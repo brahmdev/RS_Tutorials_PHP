@@ -1,3 +1,4 @@
+<?php include '../layout/header.php';?> 
 
 <body>
 	<div class="ct-site--map ct-u-backgroundGradient">
@@ -107,7 +108,7 @@
 						<div class="ct-personMedia ct-u-displayTableVertical">
 							<div class="ct-u-displayTableCell">
 								<div class="ct-personImage">
-									<img src="img/brahmdev.jpg" alt="BRAHMDEV PANDEY">
+									<img src="../img/brahmdev.jpg" alt="BRAHMDEV PANDEY">
 								</div>
 							</div>
 							<div class="ct-u-displayTableCell">
@@ -185,3 +186,5 @@
 		</div>
 	</section>
 </body>
+<?php include '../layout/footer.php';?>
+
