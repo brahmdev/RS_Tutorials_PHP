@@ -1,9 +1,9 @@
-<footer>
+	<footer>
 	<div class="ct-footer">
 		<div class="container text-center">
 			<ul class="list-unstyled list-inline ct-copyright">
 						<li>Copyright 2017</li>
-						<li>Created by <a style="color:#fff;" href="http://www.rstutorials.edu">RS
+						<li>Created by <a style="color:#fff;" href="http://www.devarena.in/rs">RS
 								Tutorials</a></li>
 					</ul>
 		</div>
@@ -19,13 +19,13 @@
 
 		script.type = 'text/javascript';
 
-		script.src = "../js/main-compiled.js";
+		script.src = "/rs/js/main-compiled.js";
 		body.appendChild(script);
 
 </script>
-<script src="../js/header.js"></script>
+<script src="/rs/js/header.js"></script>
 <!-- switcher -->
-<script src="../js/demo.js"></script>
+<script src="/rs/js/demo.js"></script>
 
 <div id="stylechooser">
 	<div class="easyBox flat">
@@ -71,7 +71,7 @@
 			<div class="title">
 				<label>Dropdown Style</label>
 			</div>
-			<div class="switch-animations">
+				<div class="switch-animations">
 				<div class="select">
 					<select id="dropdownSelect" onchange="selectDropdown()">
 						<option value="ct-navbar--fadeInLeft">fadeInLeft</option>

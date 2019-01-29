@@ -9,10 +9,10 @@ jQuery(document)
 					var themeName = 'ct_macaroon.' + pathname;
 					$('head')
 							.append(
-									'<link rel="stylesheet" type="text/css" href="../css/demo.css">');
+									'<link rel="stylesheet" type="text/css" href="/rs/css/demo.css">');
 					$('head')
 							.append(
-									'<link rel="stylesheet" type="text/css" href="../css/generator.css">');
+									'<link rel="stylesheet" type="text/css" href="/rs/css/generator.css">');
 					if (getCookie(themeName + '.switcher') != 'show') {
 						hideStyleswitcher();
 					}

@@ -28,7 +28,7 @@
 							<div class="ct-u-displayTableCell">
 								<div class="ct-personImage">
 									<img
-										src="assets/images/demo-content/personBoxImage1-circle.jpg"
+										src="rs/img/personBoxImage1-circle.jpg"
 										alt="person">
 								</div>
 							</div>
@@ -66,7 +66,7 @@
 							<div class="ct-u-displayTableCell">
 								<div class="ct-personImage">
 									<img
-										src="assets/images/demo-content/personBoxImage1-circle.jpg"
+										src="rs/img/personBoxImage1-circle.jpg"
 										alt="person">
 								</div>
 							</div>
@@ -108,13 +108,13 @@
 						<div class="ct-personMedia ct-u-displayTableVertical">
 							<div class="ct-u-displayTableCell">
 								<div class="ct-personImage">
-									<img src="../img/brahmdev.jpg" alt="BRAHMDEV PANDEY">
+									<img src="/rs/img/brahmdev.jpg" alt="BRAHMDEV PANDEY">
 								</div>
 							</div>
 							<div class="ct-u-displayTableCell">
 								<div class="ct-personName">
 									<span class="ct-personName--title ct-fw-700"> BRAHMDEV
-										PANDEY </span> <span class="ct-personName--meta text-lowercase">
+											PANDEY </span> <span class="ct-personName--meta text-lowercase">
 										Founder </span>
 								</div>
 							</div>
