@@ -7,7 +7,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Uacademy - Creative HTML Template">
+<meta name="description" content="RS Tutorials">
 <meta name="author" content="CreateIT">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport"

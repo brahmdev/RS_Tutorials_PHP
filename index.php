@@ -6,7 +6,7 @@
              data-autoplay="true" data-infinite="true" data-autoplaySpeed="6000"
              data-draggable="false" data-touchMove="false" data-arrows="true"
              data-items="1">
-            <div class="item" data-bg="/rs/img/header2.jpg">
+            <div class="item" data-bg="/img/header2.jpg">
                 <div class="ct-slick-inner">
                     <div class="ct-slick-content">
                         <div class="container">
@@ -20,7 +20,7 @@
                                        data-fx="bounceInRight" data-time="400">Teaching is 24 Hours / 7 Days a week job
                                         because Teachers never stop caring about their Students</p>
                                     <a class="text-uppercase btn btn-primary btn-lg animated"
-                                       data-fx="bounceInUp" data-time="200" href="/rs/views/courses.html">view
+                                       data-fx="bounceInUp" data-time="200" href="/views/courses.html">view
                                         courses</a>
                                 </div>
                             </div>
@@ -28,7 +28,7 @@
                     </div>
                 </div>
             </div>
-            <div class="item" data-bg="/rs/img/header.jpg">
+            <div class="item" data-bg="/img/header.jpg">
                 <div class="ct-slick-inner">
                     <div class="ct-slick-content">
                         <div class="container">
@@ -40,10 +40,10 @@
                                     <p class="ct-u-marginBottom40 ct-fw-600 animated"
                                        data-fx="bounceInDown" data-time="400">If you cant Explain it simply, you dont
                                         understand it well enough</p>
-                                    <a href="/rs/views/courses.html"
+                                    <a href="/views/courses.html"
                                        class="text-uppercase btn btn-primary btn-lg animated"
                                        data-fx="bounceInDown" data-time="600">view courses</a> <a
-                                        href="/rs/views/courses.html"
+                                        href="/views/courses.html"
                                         class="text-uppercase btn btn-transparent btn-bordered--dark btn-lg animated"
                                         data-fx="bounceInDown" data-time="800">take tour</a>
                                 </div>
@@ -52,7 +52,7 @@
                     </div>
                 </div>
             </div>
-            <div class="item" data-bg="/rs/img/header4.jpg">
+            <div class="item" data-bg="/img/header4.jpg">
                 <div class="ct-slick-inner">
                     <div class="ct-slick-content">
                         <div class="container">
@@ -65,7 +65,7 @@
                                     <p class="ct-u-marginBottom40 ct-fw-600 animated"
                                        data-fx="fadeInLeft" data-time="800">A good Education is like a saving account;
                                         the more you put into it, the richer you are.</p>
-                                    <a href="/rs/views/courses.html"
+                                    <a href="/views/courses.html"
                                        class="text-uppercase btn btn-dark btn-lg animated"
                                        data-fx="fadeInLeft" data-time="1200">view courses</a>
                                 </div>
@@ -227,9 +227,9 @@
                     <div class="row">
                         <div class="col-sm-6 col-md-3">
                             <div class="ct-productBox">
-                                <a href="/rs/views/courses.html">
+                                <a href="/views/courses.html">
                                     <div class="ct-productImage">
-                                        <img src="/rs/img/sch_science.jpg" alt="Science">
+                                        <img src="/img/sch_science.jpg" alt="Science">
                                     </div>
                                     <div class="ct-productDescription">
                                         <h5 class="ct-fw-600 ct-u-marginBottom10">There is reason for everything</h5>
@@ -256,9 +256,9 @@
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <div class="ct-productBox">
-                                <a href="/rs/views/courses.html">
+                                <a href="/views/courses.html">
                                     <div class="ct-productImage">
-                                        <img src="/rs/img/sch_math.jpg" alt="Maths">
+                                        <img src="/img/sch_math.jpg" alt="Maths">
                                     </div>
                                     <div class="ct-productDescription">
                                         <h5 class="ct-fw-600 ct-u-marginBottom10">Calculations were never so easy</h5>
@@ -284,9 +284,9 @@
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <div class="ct-productBox">
-                                <a href="/rs/views/courses.html">
+                                <a href="/views/courses.html">
                                     <div class="ct-productImage">
-                                        <img src="/rs/img/sch_history_and_geography.jpg" alt="Be Social">
+                                        <img src="/img/sch_history_and_geography.jpg" alt="Be Social">
                                     </div>
                                     <div class="ct-productDescription">
                                         <h5 class="ct-fw-600 ct-u-marginBottom10">Be Social</h5>
@@ -312,9 +312,9 @@
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <div class="ct-productBox">
-                                <a href="/rs/views/courses.html">
+                                <a href="/views/courses.html">
                                     <div class="ct-productImage">
-                                        <img src="/rs/img/sch_language.jpg" alt="Languages">
+                                        <img src="/img/sch_language.jpg" alt="Languages">
                                     </div>
                                     <div class="ct-productDescription">
                                         <h5 class="ct-fw-600 ct-u-marginBottom10">How to write effectively</h5>
@@ -349,7 +349,7 @@
                             <div class="ct-productBox">
                                 <a href="#">
                                     <div class="ct-productImage">
-					<img src="/rs/img/collage_physics.jpg" alt="Physics">
+					<img src="/img/collage_physics.jpg" alt="Physics">
                                     </div>
                                     <div class="ct-productDescription">
                                         <h5 class="ct-fw-600 ct-u-marginBottom10">Fun of Physics</h5>
@@ -377,7 +377,7 @@
                             <div class="ct-productBox">
                                 <a href="#">
                                     <div class="ct-productImage">
-                                        <img src="/rs/img/collage_chemistry.jpg" alt="Chemistry">
+                                        <img src="/img/collage_chemistry.jpg" alt="Chemistry">
                                     </div>
                                     <div class="ct-productDescription">
                                         <h5 class="ct-fw-600 ct-u-marginBottom10">Chemistry of Study</h5>
@@ -405,7 +405,7 @@
                             <div class="ct-productBox">
                                 <a href="#">
                                     <div class="ct-productImage">
-                                        <img src="/rs/img/collage_maths.jpg" alt="Maths">
+                                        <img src="/img/collage_maths.jpg" alt="Maths">
                                     </div>
                                     <div class="ct-productDescription">
                                         <h5 class="ct-fw-600 ct-u-marginBottom10">Keep on Calculating</h5>
@@ -433,7 +433,7 @@
                             <div class="ct-productBox">
                                 <a href="#">
                                     <div class="ct-productImage">
-                                        <img src="/rs/img/collage_biology.jpg" alt="Biology">
+                                        <img src="/img/collage_biology.jpg" alt="Biology">
                                     </div>
                                     <div class="ct-productDescription">
                                         <h5 class="ct-fw-600 ct-u-marginBottom10">Mystery of Life</h5>
@@ -469,7 +469,7 @@
                             <div class="ct-productBox">
                                 <a href="#">
                                     <div class="ct-productImage">
-                                        <img src="/rs/img/entrance_jee_iit.jpg" alt="IIT-JEE">
+                                        <img src="/img/entrance_jee_iit.jpg" alt="IIT-JEE">
                                     </div>
                                     <div class="ct-productDescription">
                                         <h5 class="ct-fw-600 ct-u-marginBottom10">IIT-JEE</h5>
@@ -497,7 +497,7 @@
                             <div class="ct-productBox">
                                 <a href="#">
                                     <div class="ct-productImage">
-                                        <img src="/rs/img/entrance_neet.jpg" alt="NEET">
+                                        <img src="/img/entrance_neet.jpg" alt="NEET">
                                     </div>
                                     <div class="ct-productDescription">
                                         <h5 class="ct-fw-600 ct-u-marginBottom10">NEET</h5>

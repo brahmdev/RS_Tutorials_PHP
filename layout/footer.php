@@ -3,7 +3,7 @@
 		<div class="container text-center">
 			<ul class="list-unstyled list-inline ct-copyright">
 						<li>Copyright 2017</li>
-						<li>Created by <a style="color:#fff;" href="http://www.devarena.in/rs">RS
+						<li>Created by <a style="color:#fff;" href="http://www.devarena.in">RS
 								Tutorials</a></li>
 					</ul>
 		</div>
@@ -19,13 +19,13 @@
 
 		script.type = 'text/javascript';
 
-		script.src = "/rs/js/main-compiled.js";
+		script.src = "/js/main-compiled.js";
 		body.appendChild(script);
 
 </script>
-<script src="/rs/js/header.js"></script>
+<script src="/js/header.js"></script>
 <!-- switcher -->
-<script src="/rs/js/demo.js"></script>
+<script src="/js/demo.js"></script>
 
 <div id="stylechooser">
 	<div class="easyBox flat">

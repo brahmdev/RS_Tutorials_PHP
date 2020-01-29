@@ -28,7 +28,7 @@
 							<div class="ct-u-displayTableCell">
 								<div class="ct-personImage">
 									<img
-										src="rs/img/personBoxImage1-circle.jpg"
+										src="/img/personBoxImage1-circle.jpg"
 										alt="person">
 								</div>
 							</div>
@@ -36,7 +36,7 @@
 								<div class="ct-personName">
 									<span class="ct-personName--title ct-fw-700"> RAHUL
 										SINGH </span> <span class="ct-personName--meta text-lowercase">
-										c </span>
+										Founder </span>
 								</div>
 							</div>
 						</div>
@@ -66,7 +66,7 @@
 							<div class="ct-u-displayTableCell">
 								<div class="ct-personImage">
 									<img
-										src="rs/img/personBoxImage1-circle.jpg"
+										src="/img/personBoxImage1-circle.jpg"
 										alt="person">
 								</div>
 							</div>
@@ -108,7 +108,7 @@
 						<div class="ct-personMedia ct-u-displayTableVertical">
 							<div class="ct-u-displayTableCell">
 								<div class="ct-personImage">
-									<img src="/rs/img/brahmdev.jpg" alt="BRAHMDEV PANDEY">
+									<img src="/img/brahmdev.jpg" alt="BRAHMDEV PANDEY">
 								</div>
 							</div>
 							<div class="ct-u-displayTableCell">
